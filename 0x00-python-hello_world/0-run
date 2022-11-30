@@ -1,4 +1,2 @@
 #!/bin/bash
-export PYFILE=tensa_zangetsu.py
-chmod 777 $PYFILE
-./$PYFILE
+python3 $PYFILE

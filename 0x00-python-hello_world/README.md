@@ -1,1 +1,1 @@
-Gonna become a double blade soon
+Tensa Zangetsu
