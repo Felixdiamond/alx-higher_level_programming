@@ -1,9 +1,4 @@
 #!/usr/bin/node
+module.exports = class Rectangle {
 
-class Rectangle {
-  // No properties or methods defined yet
-}
-
-const r1 = new Rectangle();
-console.log(r1);
-console.log(r1.constructor);
+};
